@@ -1,0 +1,8 @@
+page-addon-mod-lesson-player audio {
+    min-width: 300px;
+}
+
+page-addon-mod-lesson-player audio,
+page-addon-mod-lesson-player video {
+    min-width: 300px;
+}
